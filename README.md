@@ -5,4 +5,4 @@ The idea behind PlotPal is to provide this versatility in a way that allows it t
 
 The user is not required to use the Grouping and Filter functions, but they are available if the data visualization requires them. 
 
-
+See PlotPal Presentation for more details on how to use the app!
